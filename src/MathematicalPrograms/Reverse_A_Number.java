@@ -1,3 +1,5 @@
+package MathematicalPrograms;
+
 import java.util.Scanner;
 
 public class Reverse_A_Number {

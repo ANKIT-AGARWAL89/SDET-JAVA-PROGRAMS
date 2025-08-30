@@ -1,3 +1,5 @@
+package StringsJavaPrograms;
+
 public class Count_of_occurence_of_letters_in_a_string {
     public static void main(String[] args) {
 //        Input : str = "elephant"
