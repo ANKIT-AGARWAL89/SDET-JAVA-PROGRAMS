@@ -2,6 +2,7 @@ package SearchingAlgorithm;
 
 public class LinearSearch {
     public static void main(String[] args) {
+        // Worst TC - O(N)
         int[] arr = {4, 5, 1, 6, 3, 2, 7};
         int target = 4;
         int found = 0;
